@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "releaseDate": "2024-02-01",
+    "minVersion": "1.0.0",
+    "downloadUrl": "https://github.com/kevin-kss/kiro-account-manager/raw/main/kiro-account-manager-1.0.0.vsix",
+    "releaseNotes": "https://github.com/kevin-kss/kiro-account-manager",
+    "changelog": [
+        "🎉 初始版本发布",
+        "📥 支持多账号导入和管理",
+        "🔄 一键切换 Kiro IDE 账号",
+        "🔑 支持自动刷新 Token",
+        "🖥️ 跨平台机器码更换 (Windows/macOS/Linux)",
+        "💾 账号数据导入导出"
+    ],
+    "announcement": "",
+    "forceUpdate": false
+}
