@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "message": "当前为最新版本",
-  "downloadUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=xxxx"
+  "message": "修复版本检查功能",
+  "downloadUrl": "https://github.com/kevin-kss/kiro-account-manager/raw/main/kiro-account-manager-1.0.0.vsix"
 }
