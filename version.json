@@ -1,16 +1,13 @@
 {
-    "version": "1.1.0",
-    "releaseDate": "2024-02-01",
+    "version": "1.2.0",
+    "releaseDate": "2025-04-27",
     "minVersion": "1.1.0",
-    "downloadUrl": "https://github.com/kevin-kss/kiro-account-manager/raw/main/kiro-account-manager-1.1.0.vsix",
-    "releaseNotes": "https://github.com/kevin-kss/kiro-account-manager",
+    "downloadUrl": "https://github.com/kevin-kss/kiro-account-manager/releases/download/v1.2.0/kiro-account-manager-1.2.0.vsix",
+    "releaseNotes": "https://github.com/kevin-kss/kiro-account-manager/releases/tag/v1.2.0",
     "changelog": [
-        "🎉 初始版本发布",
-        "📥 支持多账号导入和管理",
-        "🔄 一键切换 Kiro IDE 账号",
-        "🔑 支持自动刷新 Token",
-        "🖥️ 跨平台机器码更换 (Windows/macOS/Linux)",
-        "💾 账号数据导入导出"
+        "🐛 修复导出功能失效、资源泄漏、设置默认值不一致等 Bug",
+        "🛡️ 新增 ListAvailableModels 接口封号检测 (支持 403/TEMPORARILY_SUSPENDED)",
+        "🧹 清理死代码、统一封禁状态常量、合并重复 HTTP 请求函数"
     ],
     "announcement": "",
     "forceUpdate": false
